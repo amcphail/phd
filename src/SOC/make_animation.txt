@@ -1,0 +1,1 @@
+convert -delay 25 `ls spinor-* | sort -n -t - -k 2` spinor.gif
